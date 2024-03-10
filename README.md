@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ARDUINO_GUITAR_LED
 
 ## 목적
@@ -21,5 +21,4 @@
 ## 샘플
 [![Untitled](https://img.youtube.com/vi/J0XsHEH9n20/0.jpg)](https://youtu.be/J0XsHEH9n20)
 =======
-# ARDUINO_GUITAR_LED
->>>>>>> 98f6eb8582ab64f63abe3ebf21d30e648b589f32
+
