@@ -16,7 +16,7 @@
 
 ![Untitled](img/img2.JPG)
 
-![Untitled](img/img.PNG)
+![Untitled](img/img.png)
 
 ## 샘플
 [![Untitled](https://img.youtube.com/vi/J0XsHEH9n20/0.jpg)](https://youtu.be/J0XsHEH9n20)
